@@ -19,13 +19,30 @@
 
 ## 🌌 Architect & Creator of ASTITVA Agent OS
 
-I am **Vicky**, a System Architect & Full-Stack AI Engineer specializing in autonomous agent systems, mobile automation, and high-performance developer tools. I am the sole creator of **ASTITVA**, a professional-grade living Agent OS built exclusively for Android devices.
+I am **Vicky**, a **Cyber Security Expert**, System Architect & Full-Stack AI Engineer specializing in autonomous agent systems, mobile automation, AI Red Teaming / Jailbreaking, and high-performance developer tools. I am the sole creator of **ASTITVA**, a professional-grade living Agent OS built exclusively for Android devices.
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=starboyffx-byte&theme=aurora&mode=light" />
     <img src="https://www.gitskins.com/api/section/about?username=starboyffx-byte&theme=aurora&mode=dark" width="100%" alt="About Vicky" />
   </picture>
+</p>
+
+## 🛡️ Cyber Security & Technical Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber_Security_Expert-Kali_Linux-1f232a?style=for-the-badge&logo=kali-linux&logoColor=557C93" alt="Cyber Security Expert Kali Linux" />
+  <img src="https://img.shields.io/badge/AI_Security-Jailbreaking_%26_Red_Teaming-red?style=for-the-badge&logo=openai&logoColor=white" alt="AI Jailbreaking & Red Teaming" />
+  <img src="https://img.shields.io/badge/AI_%26_ML-Model_Development-00599C?style=for-the-badge&logo=python&logoColor=white" alt="AI & ML Development" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
 ## ⚡ Selected Work
@@ -58,7 +75,7 @@ I am **Vicky**, a System Architect & Full-Stack AI Engineer specializing in auto
 ## 🔥 Current Focus
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=starboyffx-byte&theme=aurora&items=ASTITVA%20Agent%20OS::Autonomous%20Android%20Copilot|System%20Control::Root-level%20automation%20%26%20visual%20AI|Open%20Source::Building%20superhuman%20software%20in%20public" width="100%" alt="Current focus areas" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=starboyffx-byte&theme=aurora&items=ASTITVA%20Agent%20OS::Autonomous%20Android%20Copilot|Cyber%20Security%20Expert::Kali%20Linux%20%26%20Pentesting|AI%20Red%20Teaming::LLM%20Jailbreaking%20%26%20AI%20ML%20Dev|All-Rounder%20Dev::C%2B%2B%20C%20Python%20Java%20JS" width="100%" alt="Current focus areas" />
 </p>
 
 ---
